@@ -1,6 +1,4 @@
 #The following script contains the core analytical code used in the MDS project.
-# It includs data import and cleaning, the construction of mutually exclusive activity categories, standardisation of lead departments, descriptive statistics, Kruskal–Wallis tests, Holm-adjusted pairwise Wilcoxon rank-sum tests, effect-size calculations, HESA provider-group comparisons, analysis of chargeable-event composition, and sensitivity analyses.
-
 #1 read data
 
 library(tidyverse)
