@@ -35,4 +35,4 @@ The R script includes:
 
 12 sensitivity analyses.
 
-Chart-generation and non-essential file-export code are not included.
+
