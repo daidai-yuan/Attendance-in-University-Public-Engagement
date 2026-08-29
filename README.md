@@ -2,13 +2,15 @@ This repository contains the core R code used in an MDS project examining patter
 
 # Project overview
 The analysis addresses three sub-questions:
+
 1.Is activity category associated with measurable differences in attendance?  
 2.Is lead department associated with differences in attendance?  
 3.How does the distribution of reported attendance across event types and charging status at the University of Durham compare with that of other UK higher education providers?  
-Attendance is interpreted as a measure of participation scale rather than a complete measure of engagement quality, inclusiveness, learning or longer-term impact.
+
 
 # code
 The R script includes:
+
 1 data import and cleaning;
 2 removal of fully duplicated records;
 3 identification of media and communication outputs;
