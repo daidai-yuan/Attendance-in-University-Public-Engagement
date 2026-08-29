@@ -1045,7 +1045,7 @@ sensitivity_summary <- bind_rows(
   )
 )
 
-# 9. some outputs
+# 9. outputs
 print(dur_quality_summary)
 print(sub1_test_summary)
 print(sub1_pairwise_long)
@@ -1053,11 +1053,10 @@ print(sub2_test_summary)
 print(sub2_pairwise_long)
 print(hesa_sample_summary)
 print(hesa_provider_group_summary)
-print(table_5_6)
-print(table_5_7)
 print(dur_chargeable_by_type)
 print(dur_charge_within_type)
 print(sensitivity_summary)
+
 #tables in disserssion
 print(dur_overall_summary)
 print(dur_category_composition)
@@ -1066,3 +1065,5 @@ print(sub1_category_attendance)
 print(sub2_department_attendance)
 print(table_5_6)
 print(table_5_7)
+
+# Earlier, five figures were also generated, namely figure 5.1 to 5.5
